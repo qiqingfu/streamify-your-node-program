@@ -4,4 +4,4 @@ npm-debug.log
 build/
 coverage/
 .nyc_output/
-ua.txt
+example/ua.txt
